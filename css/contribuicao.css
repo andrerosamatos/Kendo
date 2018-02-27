@@ -7,3 +7,14 @@
 .tabela{
 	color: white;
 }
+.footer {
+	position: relative;
+	left: 0;
+	bottom: 0;
+	height: 40px;
+	width: 100%;
+	background-color: rgba(22, 89, 143, 0.61);
+	padding-top: 8px;
+	color: white;
+	text-align: center;
+}
